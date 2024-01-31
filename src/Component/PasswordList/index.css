@@ -1,0 +1,32 @@
+.password-list-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  border: 1px solid #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  flex-shrink: 0px;
+  margin-right: 10px;
+}
+.initaial-bg-color {
+  background-color: #10b981;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  color: #ffffff;
+}
+.buton-style {
+  background-color: transparent;
+  border-width: 0px;
+}
+.delete-image {
+  width: 30px;
+}
+.texts {
+  color: #ffffff;
+}
